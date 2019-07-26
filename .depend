@@ -1,0 +1,3 @@
+main.o: main.h finance.h fint.h
+finance.o: finance.h
+fint.o: fint.h
